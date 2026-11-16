@@ -1,11 +1,10 @@
 # Campus Smart-Parking System
 
 ## Student Details
-- Name: [Your Name]
-- Register Number: [Your Register Number]
+- Name: Kanish Kumar V
+- Register Number: 192524361
 - Assignment: Assignment 1
 - Programming Language: Java
-- Java Version: [Your Java Version]
 
 ## Project Description
 This project focuses on designing and implementing an object-oriented Campus Smart-Parking System using Java.
